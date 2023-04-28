@@ -1,0 +1,107 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "imageUrl": "https://m.media-amazon.com/images/S/aplus-media/vc/61928078-5f4c-479b-a055-b16f585b40b1._CR0,0,400,400_PT0_SX300__.png",
+      "title": "Ed Sharen",
+      "text": "Thursday 25th of May",
+      "DOB": "1991/02/17",
+      "bio": "Edward Christopher Sheeran MBE (/ˈʃɪərən/; born 17 February 1991) is an English singer-songwriter. Born in Halifax, West Yorkshire, and raised in Framlingham, Suffolk, he began writing songs around the age of eleven. In early 2011, Sheeran independently released the extended play No. 5 Collaborations Project."
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://cdn20.pamono.com/p/g/0/1/01_243/david-bowie-aladdin-sane-eyes-open-limited-edition-signed-by-david-bowie-1973-image-1.jpg",
+      "title": "David Bowie",
+      "text": "Friday 26th of May",
+      "DOB": "1947/01/1947",
+      "bio": "David Robert Jones 8 January 1947  10 January 2016 known professionally as David Bowie boʊi BOH ee was an English singer songwriter and actor A leading figure in the music industry he is regarded as one of the most influential musicians of the 20th century Bowie was acclaimed by critics and musicians particularly for his innovative work during the 1970s His career was marked by reinvention and visual presentation and his music and stagecraft had a significant impact on popular music   Bowie developed an interest in music from an early age. He studied art music and design before embarking on a professional career as a musician in 1963 Space Oddity released in 1969 was his first top-five entry on the UK Singles Chart. After a period of experimentation he re-emerged in 1972 during the glam rock era with his flamboyant and androgynous alter ego Ziggy Stardust. The character was spearheaded by the success of Bowie's single Starman and album The Rise and Fall of Ziggy Stardust and the Spiders from Mars which won him widespread popularity. In 1975 Bowies style shifted towards a sound he characterised as plastic soul initially alienating many of his UK fans but garnering him his first major US crossover success with the number-one single Fame and the album Young Americans In 1976 Bowie starred in the cult film The Man Who Fell to Earth and released Station to Station. In 1977 he again changed direction with the electronic-inflected album Low the first of three collaborations with Brian Eno that came to be known as the Berlin Trilogy Heroes (1977) and Lodger (1979) followed; each album reached the UK top five and received lasting critical praise"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT6hQ2AmU8wRcRJ02Um7thJXoXRnzodV6U6Q&usqp=CAU",
+      "title": "George Michael",
+      "text": "Saturday 27th of May",
+      "DOB": "1963/06/1963",
+      "bio": "George Michael (born Georgios Kyriacos Panayiotou; 25 June 1963  25 December 2016) was an English singer, songwriter and record producer. He is one of the best-selling musicians of all time, with sales of over 125 million records worldwide.[2] Michael was known as a creative force in songwriting,[3] vocal performance,[4] and visual presentation.[5][6] He achieved seven number-one songs on the UK Singles Chart and eight number-one songs on the US Billboard Hot 100. Michael won numerous music awards, including two Grammy Awards, three Brit Awards, three American Music Awards, twelve Billboard Music Awards, and four MTV Video Music Awards. In 2015, he was ranked 45th in Billboard's list of the Greatest Hot 100 Artists of All Time The Radio Academy named him the most played artist on British radio during the period 1984 2004 Born in East Finchley Middlesex Michael rose to fame as a member of the music duo Wham! and later embarked on a solo career. After he formed Wham! with Andrew Ridgeley in 1981 the band's first two albums Fantastic (1983) and Make It Big (1984) reached number one on the UK Albums Chart and the US Billboard 200  Their hit singles included Wake Me Up Before You Go-Go and Last Christmas Establishing themselves as a global act Wham! toured China in April 1985; the tour was the first visit to China by a Western popular music act and it generated worldwide media coverage.[8][9]"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://d319i1jp2i9xq6.cloudfront.net/upload/images/40606/40606_p.jpg?20150107041042",
+      "title": "BOM",
+      "text": "Broser Model Object",
+      "DOB": "1947/01/1947",
+      "bio": "-------------------------"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://d319i1jp2i9xq6.cloudfront.net/upload/images/40606/40606_p.jpg?20150107041042",
+      "title": "variable in java",
+      "text": "var & let",
+      "DOB": "1947/01/1947",
+      "bio": "-------------------------"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://d319i1jp2i9xq6.cloudfront.net/upload/images/40606/40606_p.jpg?20150107041042",
+      "title": "constant in java",
+      "text": "const",
+      "DOB": "1947/01/1947",
+      "bio": "-------------------------"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://d319i1jp2i9xq6.cloudfront.net/upload/images/40606/40606_p.jpg?20150107041042",
+      "title": "DOM",
+      "text": "Document model object",
+      "DOB": "1947/01/1947",
+      "bio": "-------------------------"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://d319i1jp2i9xq6.cloudfront.net/upload/images/40606/40606_p.jpg?20150107041042",
+      "title": "BOM",
+      "text": "Broser Model Object",
+      "DOB": "1947/01/1947",
+      "bio": "-------------------------"
+    },
+    {
+      "id": 18,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Randall_Packer_400x400.jpg",
+      "text": "2023-06-15",
+      "DOB": "2011-03-23",
+      "bio": "I am good"
+    },
+    {
+      "id": -8,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Randall_Packer_400x400.jpg",
+      "title": "Reza Safarkhani",
+      "text": "2023-03-16",
+      "DOB": "2023-03-26",
+      "bio": "hoo pupi[pi[ i]]o] o]["
+    },
+    {
+      "id": 19,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Hoffl%C3%B6th%28T%C3%B6Vo-Cl%C3%B6rath%29-2%28400x400%29.jpg",
+      "title": "Abass",
+      "text": "",
+      "DOB": "2023-03-10",
+      "bio": "lhjp;j ;;"
+    },
+    {
+      "id": -7,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Hoffl%C3%B6th%28T%C3%B6Vo-Cl%C3%B6rath%29-2%28400x400%29.jpg",
+      "title": "shoma",
+      "text": "2023-03-15",
+      "DOB": "2023-03-30",
+      "bio": "kblkhljhoujpoik"
+    },
+    {
+      "id": 41,
+      "imageUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a704f043-a0fb-4652-b8ee-6bc362dae5a9/d5j1z44-0c21f546-39eb-48f9-8230-0b4500c7b88f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E3MDRmMDQzLWEwZmItNDY1Mi1iOGVlLTZiYzM2MmRhZTVhOVwvZDVqMXo0NC0wYzIxZjU0Ni0zOWViLTQ4ZjktODIzMC0wYjQ1MDBjN2I4OGYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.O_Xy26vERxse28DI8z2gwy-z0M9aBlGMXJSOwbi8_nM",
+      "title": "sara mohamadi",
+      "text": "2023-03-03",
+      "DOB": "2023-03-18",
+      "bio": "kkk  kp p p "
+    }
+  ]
+}

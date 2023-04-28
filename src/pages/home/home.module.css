@@ -1,0 +1,18 @@
+.homeWraper {
+  margin-bottom: 100px 0;
+}
+
+
+.articles {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 50px 0;
+}
+
+.homeWraper h2 {
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 100px;
+}
+

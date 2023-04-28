@@ -1,0 +1,57 @@
+@font-face {
+  font-family: mukta;
+  src: url('./assets/fonts/Mukta-Light.ttf');
+  font-weight: 50;
+}
+@font-face {
+  font-family: mukta;
+  src: url('./assets/fonts/Mukta-Regular.ttf');
+  font-weight: 100;
+}
+@font-face {
+  font-family: mukta;
+  src: url('./assets/fonts/Mukta-Medium.ttf');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: mukta;
+  src: url('./assets/fonts/Mukta-Bold.ttf');
+  font-weight: 500;
+}
+@font-face {
+  font-family: mukta;
+  src: url('./assets/fonts/Mukta-ExtraBold.ttf');
+  font-weight: 700;
+}
+
+*{
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: mukta;
+  font-weight:100;
+ 
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1,h2,h3,h4,h5,h6,p,ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.container{
+  padding: 0px 20px;
+}
+
+a{
+  text-decoration: none;
+  color:black;
+  
+}

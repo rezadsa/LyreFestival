@@ -1,0 +1,17 @@
+
+    .inputWrapper input{
+        width:100px;
+        padding: 10px;
+        border: none;
+        border-bottom: 1px solid black;
+        margin: 20px 0;
+        outline: none;;
+        transition:  1s;
+        
+    }
+
+    .inputWrapper input:focus{
+        border-bottom: 3px solid  red;
+        width:50%;
+        
+    }
